@@ -21,3 +21,4 @@ datasets/spam
 datasets/words
 datasets/jsb_chorales
 datasets
+datasets/housing/housing.csv
